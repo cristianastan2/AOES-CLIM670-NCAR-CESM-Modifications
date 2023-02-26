@@ -67,10 +67,10 @@ $ ./xmlquery STOP_OPTION,STOP_N,PROJECT
 
 ~~~
 Results in group case.run
-	PROJECT: UGMU0032
+	PROJECT: UGMU0041
 
 Results in group case.st_archive
-	PROJECT: UGMU0032
+	PROJECT: UGMU0041
 
 Results in group run_begin_stop_restart
 	STOP_OPTION: ndays
