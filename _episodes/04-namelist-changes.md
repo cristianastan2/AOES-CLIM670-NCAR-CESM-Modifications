@@ -17,7 +17,7 @@ When you add changes to the `user_nl_*` files, model uses this to create the nam
 $ cd ~/cases/b.run2
 $ ./preview_namelists
 $ ./xmlquery RUNDIR
-$ cd /glade/scratch/kpegion/b.day1.0/run
+$ cd /glade/scratch/cstan/b.day1.0/run
 $ more atm_in
 ~~~
 {: .language-bash}
