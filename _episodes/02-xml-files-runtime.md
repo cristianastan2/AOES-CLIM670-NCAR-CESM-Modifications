@@ -97,7 +97,7 @@ This is great.  We don't have to remember which file they are located in!
 
 > ## Understanding RESUBMIT
 >
-> This version of CESM2 (f19_g17 resolution) on Derecho simulates about 10 model years per wall clock day.
+> This version of CESM2 (f19_g17 resolution) on Derecho simulates about 12 model years per wall clock day.
 > Wall clock refers to actual time running on the supercomputer.   
 > You can request a maximum of 12 hours of wall clock time when you submit a run.
 > What this means that that if you want to run a long experiment, you have to run the number of years you can run in 12 hours, then have it resubmit
