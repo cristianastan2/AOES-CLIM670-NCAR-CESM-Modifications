@@ -17,13 +17,13 @@ When you add changes to the `user_nl_*` files, model uses this to create the nam
 $ cd ~/cases/b.run2
 $ ./preview_namelists
 $ ./xmlquery RUNDIR
-$ cd /glade/scratch/cstan/b.day1.0/run
+$ cd /glade/derecho/scratch/cstan/run.2/run
 $ more atm_in
 ~~~
 {: .language-bash}
 
 How do I know what namelist options there are to change for each component?
-http://www.cesm.ucar.edu/models/cesm2/settings/current/
+https://escomp.github.io/CESM/versions/cesm2.1/html/cesm_configurations.html#cesm2-components
 
 
 > ## Configure your new experiment
