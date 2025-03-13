@@ -23,7 +23,7 @@ $ more atm_in
 {: .language-bash}
 
 How do I know what namelist options there are to change for each component?
-[https://escomp.github.io/CESM/versions/cesm2.1/html/cesm_configurations.html](https://escomp.github.io/CESM/versions/cesm2.1/html/cesm_configurations.html)
+[https://docs.cesm.ucar.edu/models/cesm2/settings/current/](https://docs.cesm.ucar.edu/models/cesm2/settings/current/)
 
 
 > ## Configure your new experiment
