@@ -31,7 +31,7 @@ How do I know what namelist options there are to change for each component?
 > Change the output frequency of your experiment to produce daily precipitation output
 > along with default monthly output for the default set of variables.
 >
-> In `user_nl_atm`, add the following lines:
+> In `user_nl_cam`, add the following lines:
 >
 > `fincl2='PRECC','PRECL'` # higher frequency output for PRECC and PRECL (convective and large scale precipitation)
 >
